@@ -1,0 +1,90 @@
+#headdiv{
+    text-align:center;
+    background-color:#f5f5f5;
+    font-family: roboto condensed,sans-serif;
+    width:50%;
+}
+#headp{
+    color:#777;
+    font-size:19px;
+    padding:4px 0px 0px 0px;
+}
+#lastupdated{
+    margin-top:7px;
+    font-size:14px;
+    color:#9899a2;
+}
+#maindiv{
+    padding:50px 0px 0px 0px;
+}
+.headingcount{
+    font-family: roboto condensed,sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    color: #555;
+    margin: 0;
+}
+.parameters{
+    font-family:noto sans,sans-serif;
+    font-weight: 700;
+    font-size: 54px;
+    margin:10px 0px 15px 0px;    
+}
+#cases{
+    color: #aaa;
+
+}
+#deaths{   
+    color:#555;
+}
+#recovered{
+    color:#8aca2b;
+}
+#h11{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float:none;
+    opacity:0.6;
+}
+
+
+#main_table{
+     border-spacing:0ch;
+     text-align: center;
+     text-align:right;
+}
+#firsttr{
+    text-align:center;
+    background-color:whitesmoke;
+}
+.roww{
+    height:40px;
+    background-color:;
+}
+.yellow{
+    background-color:#FFEEAA;
+}
+.red{
+    background-color:red;
+}
+.blue{
+    color:#337ab7;
+    text-decoration:underline;
+    text-align:center;
+}
+tr:hover{
+    background-color:lightgray;
+}
+td{
+    color:#666666;
+    font-size:17px;
+    font-weight:500;
+    font-family:noto sans,sans-serif;
+    letter-spacing:1px;
+}
+.end{
+    max-width: 100%;
+    height: auto;
+    background-color: lightgray;
+    padding: 10px ;
+    margin-top: 25px;
+}
